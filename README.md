@@ -64,6 +64,28 @@ That progression is the core idea behind this repository.
 - A future home for experiment logs, governance ideas, and security observations
 - A repository for organizing paper-ready and patent-ready thinking around agent systems
 
+## Relationship To Planning And Brainstorming
+
+This repo is connected to two local control/workshop repos:
+
+| Repo | Role |
+| --- | --- |
+| `/Users/iKev/Desktop/02_Projects_and_Code/everything_on_git/planning-everything-track` | weekly/daily priority, capacity, status, and project locators |
+| `/Users/iKev/Desktop/02_Projects_and_Code/everything_on_git/brainstorming-lab` | detailed raw brainstorming, critique, and project-graduation packets |
+
+Current canonical brainstorm feeding this repo:
+
+```text
+/Users/iKev/Desktop/02_Projects_and_Code/everything_on_git/brainstorming-lab/ideas/2026-05-04-openclaw-personal-ops-node.md
+```
+
+Bridge rules:
+
+- Keep raw idea expansion in `brainstorming-lab`.
+- Keep weekly capacity and day-note status in `planning-everything-track`.
+- Use this repo only for OpenClaw research/design artifacts, such as bounded design notes, baseline observations, and sandbox experiment packets.
+- Do not buy hardware or start implementation before a one-page minimum design note exists.
+
 ## What This Repository Is Not
 
 - Not the OpenClaw source repository
