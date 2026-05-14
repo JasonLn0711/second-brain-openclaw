@@ -1,5 +1,6 @@
 # 🧠 second-brain-openclaw
 
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JasonLn0711&repo=second-brain-openclaw&countColor=%237B1E7B" alt="Visitor count"/>
 <p align="center">
   <strong>A research-oriented second-brain repository for learning, structuring, and extending OpenClaw.</strong>
 </p>
